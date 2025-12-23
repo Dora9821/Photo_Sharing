@@ -48,7 +48,7 @@ function TopBar({ user, onLogout }) {
           sx={{ flexGrow: 1, cursor: "pointer" }}
           onClick={() => navigate("/")}
         >
-          Photo Share App - Nguyễn Trường Giang
+          Photo Sharing App - Lê Quang Lộc
         </Typography>
 
         {user ? (
